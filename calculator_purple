@@ -6,8 +6,6 @@
     <title>calculator_purple</title>
     <style>
 
-@purple: #5C258D;
-@blue: #4389A2;
 
 * {
   box-sizing:border-box;
@@ -28,7 +26,7 @@ html {
 #calculator {
   width: 12em;
   height:auto;
-  background:linear-gradient(@blue,@purple);
+  background:linear-gradient(#4389A2,#5C258D);
   margin: 1em auto;
 }
 
